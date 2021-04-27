@@ -1,1 +1,1 @@
-# normal-slider
+# normal-images-slider
